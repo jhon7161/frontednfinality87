@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Express.js application with MongoDB integration",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
